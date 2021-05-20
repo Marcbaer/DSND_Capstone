@@ -24,6 +24,7 @@ The provided datasets were processed and combined in order to provide an optimiz
 
 The objective of the project was to provide accurate predictions if a specific customer profile will successfully react to a specific offer. From the provided data attributes, the income, offer duration, customer age and offer difficulty turned out to be the most important feature for this prediction. Other variables such as gender or member date have only a minor influence.
 This can be observed in the plot below.
+
 <img src="feature_importance.png">
 
 After defining the business challenge and processing the provided datasets to optimize for the specified prediction problem, the resulting models performed well on the training and test data with an accuracy of around 73%. The Gradient Boosting Classifier outperforms the other algorithms slighlty in terms of mean accuracy and f1-score.
