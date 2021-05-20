@@ -7,7 +7,7 @@ For this reason, different datasets where combined and processed. Three differen
 
 ## Feature Analysis
 In order to generate valuable insights from the provided datasets, the **CRISP-DM** Methodology (Cross-Industry Standard Process for Data Mining) is applied.
-In a first step, the provided data attributes were analysed in an in-depth feature analysis.
+In a first step, the provided data attributes were analysed in an in-depth feature analysis. Three different datasets were analysed, the portfolio of offers at starbucks, customer profiles and transaction transcripts.
 
 The following plot shows the distribution of the provided customer profiles. The majority of the provided customer profiles are males.
 
@@ -17,7 +17,7 @@ The income distribution of the provided customer profiles is shown below. It can
 
 <img src="income_dist.png">
 
-The provided datasets were processed and combined in order to provide an optimized input data set for the classfiers.
+The provided datasets were cleaned, processed and combined in order to provide an optimized input data set for the classfiers.
 
 
 ## Final Thoughts and whats next?
