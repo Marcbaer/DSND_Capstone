@@ -36,7 +36,7 @@ Additional files:
 
 The project workspace contains the following 3 files relevant for the project:
 
-- **[Starbucks_Capstone_notebook.ipynb] (Starbucks_Capstone_notebook.ipynb)**: Main notebook which contains the Analysis and Evaluation
+- **[Starbucks_Capstone_notebook.ipynb](Starbucks_Capstone_notebook.ipynb)**: Main notebook which contains the Analysis and Evaluation
 - **[data_cleaning.py](data_cleaning.py)**: Python script that contains data processing functions used to generate the final dataset used for model training.
 - **[model_evaluation.py](model_evaluation.py)**: Python script that contains a function to evaluate the trained classifiers.
 
