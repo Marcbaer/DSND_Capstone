@@ -10,7 +10,8 @@ In order to generate valuable insights from the provided datasets, the **CRISP-D
 In a first step, the provided data attributes were analysed in an indepth analysis.
 
 The following plot shows the distribution of the provided customer profiles. The majority of the provided customer profiles are males.
-<img src="./pictures/gender_dist.png">
+
+<img src="gender_dist.png">
 
 
 ## Final Thoughts
