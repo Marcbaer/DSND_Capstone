@@ -1,25 +1,25 @@
 # Starbucks Capstone Challenge
 
 The following Section describes the objective of the project and the applied procedure.
-In order to generate valuable insights from the provided datasets, the CRISP-DM Methodology (Cross-Industry Standard Process for Data Mining) is applied.
+In order to generate valuable insights from the provided datasets, the **CRISP-DM** Methodology (Cross-Industry Standard Process for Data Mining) is applied.
 
-- Business Understanding:
+- **Business Understanding**:
     Starbucks tries to optimize its revenue and profit by leveraging targeted customer offers. The offer portfolio consists of three offer types. The Business challenge is to understand how certain customers react to a certain type of offer from the offering portfolio. The conducted analysis should provide insights into which offers should be sent to want customer group. The final challenge that is solved in this project, is to predict wether a customer will successfully complete a specific offer or not.
 
 
-- Data Understanding:
+- **Data Understanding**:
     In order to understand the problem it is important to investigate the provided data attributes in details and conduct a sophisticated Exploratory Data Analysis.
 
 
-- Data Preparation:
+- **Data Preparation**:
     The data is cleaned and processed in order to remove un-useful attributes and missing values.
 
 
-- Modeling:
+- **Modeling**:
     The datasets are combined and processed to ensure and optimized the predictive model.Three different classifiers were built and trained on a training set.
 
 
-- Evaluation:
+- **Evaluation**:
     The three classifiers were compared against each other based on their performance on the test dataset. The used metrics are mean accuracy and F1 score. These metrics were choosen because they provide good measures of performance for a classfier. The feature importance is investigated in order to comment on the importance of the provided data attributes.
 
 
@@ -36,10 +36,9 @@ Additional files:
 
 The project workspace contains the following 3 files relevant for the project:
 
-- Starbucks_Capstone_notebook.ipynb: Main notebook which contains the Analysis and Evaluation
-- data_cleaning.py: Python script that contains data processing functions used to generate the final dataset used for model training.
-- model_evaluation.py: Python script that contains a function to evaluate the trained classifiers.
-
+- **[Starbucks_Capstone_notebook.ipynb] (Starbucks_Capstone_notebook.ipynb)**: Main notebook which contains the Analysis and Evaluation
+- **[data_cleaning.py](data_cleaning.py)**: Python script that contains data processing functions used to generate the final dataset used for model training.
+- **[model_evaluation.py](model_evaluation.py)**: Python script that contains a function to evaluate the trained classifiers.
 
 Libraries:
 
